@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./foliq.png" alt="logo">
+  <img src="./foliq.png" alt="logo" height=100>
 </p>
 
 <h1 align="center">폴리큐</h1>
